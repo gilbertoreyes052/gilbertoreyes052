@@ -48,7 +48,6 @@ Responsive Website Development and Design Specialization - University of London 
 
 
 ## 📫 Contact me:
-![Website Badge](https://img.shields.io/badge/-website-red?style=flat-square&logo=appveyor&logoColor=white&link=https:https://gilbertoreyes052.github.io/Gilbert-Portfolio/)
 [![Email Badge](https://img.shields.io/badge/-gilbertoreyes052@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:gilbertoreyes052@gmail.com)](mailto:gilbertoreyes052@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gilberto%20Reyes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/3BC2j82)](https://bit.ly/3BC2j82)
+
 
